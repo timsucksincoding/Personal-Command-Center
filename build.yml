@@ -1,0 +1,27 @@
+name: Build Command Center
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install tools
+        run: pip install pywebview cryptography keyboard google-auth-oauthlib requests pyinstaller
+
+      - name: Build for Windows
+        run: pyinstaller --noconsole --onefile --name "Command Center" app.py
+
+      - name: Save the finished app
+        uses: actions/upload-artifact@v4
+        with:
+          name: Command-Center-Windows
+          path: dist/Command Center.exe
