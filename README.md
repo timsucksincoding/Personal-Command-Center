@@ -1,3 +1,4 @@
+
 # Personal-Command-Center
 A personal app for yourself with shortcuts to apps and links you use the most. You can link your calendar. You can create tasks and there's a built in pomodoro timer and and a normal timer. All  of this encapsulated in a Neo Brutalist design.
 
@@ -33,6 +34,8 @@ Ctrl + Alt + M — show or hide from anywhere on your system
 <img width="972" height="627" alt="Screenshot 2026-11-12 165758" src="https://github.com/user-attachments/assets/de3f2b72-1043-4cb9-8e59-f0f600df2bfb" />
 
 <img width="965" height="648" alt="Screenshot 2026-11-12 165751" src="https://github.com/user-attachments/assets/53d9eb6e-5ed2-4ff7-b945-5f6987fcb842" />
+
+<img width="761" height="545" alt="Screenshot 2026-11-13 080704" src="https://github.com/user-attachments/assets/608db619-9c69-4baa-93b0-0404b2f060cc" />
 
 <img width="891" height="506" alt="Screenshot 2026-11-12 165733" src="https://github.com/user-attachments/assets/b70ffdb3-0900-4842-b927-9b31ed50cc93" />
 
