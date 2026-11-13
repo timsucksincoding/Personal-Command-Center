@@ -5,6 +5,29 @@ Messy desktop? press CTRL + ALT + M for the app to quickly pop up.
 
 It is password protected with the password of your choice
 
+From the search bar, hit Enter after any of these:
+
+Command	What it does
+/task Buy milk	Adds a new task instantly
+/add	Opens the New Shortcut sheet
+/tasks	Jumps to the Tasks tab
+/focus	Jumps to the Focus tab
+/cal	Jumps to the Calendar tab
+/lock	Locks the app
+/quit	Closes the app completely
+
+And two non-command shortcuts in the search bar:
+
+Typing anything (without a /) filters the Launcher tiles live
+Enter on a filtered result launches the top matching shortcut
+
+Plus keyboard shortcuts that work anywhere in the app:
+
+Ctrl + 1–9 — launch the first 9 shortcuts in the Launcher
+Ctrl + L — lock the app
+Esc — hide the window
+Ctrl + Alt + M — show or hide from anywhere on your system
+
 <img width="963" height="637" alt="Screenshot 2026-11-12 165812" src="https://github.com/user-attachments/assets/2d138f6f-b933-4b5b-bf98-20767b23dd71" />
 
 <img width="972" height="627" alt="Screenshot 2026-11-12 165758" src="https://github.com/user-attachments/assets/de3f2b72-1043-4cb9-8e59-f0f600df2bfb" />
